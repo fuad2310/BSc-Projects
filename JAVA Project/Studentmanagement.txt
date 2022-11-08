@@ -1,0 +1,26 @@
+.........................STUDENTSINFORMATION.............................
+[NEW STUDENT ADDED]
+.....................
+STUDENT NAME - Mashwd
+STUDENT ID   - 12
+[COURSES :]
+.....................
+Course NUMBER: 1
+Course NUMBER: 2
+Course NUMBER: 3
+Course NUMBER: 4
+    
+[EXISTING STUDENT REMOVED]
+.....................
+STUDENT NAME - Mashwd
+STUDENT  ID  - 12
+    
+.........................STUDENTSINFORMATION.............................
+[NEW STUDENT ADDED]
+.....................
+STUDENT NAME - mashwd
+STUDENT ID   - 12
+[COURSES :]
+.....................
+Course NUMBER: 1
+    

@@ -1,0 +1,6 @@
+[NEW FACULTY ADDED]
+.....................
+FACULTY NAME - mashwd
+FACULTY  ID  - 523
+SALARY       - 1234.0
+    
