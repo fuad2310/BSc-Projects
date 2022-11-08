@@ -1,0 +1,26 @@
+.........................STUDENTSINFORMATION.............................
+[NEW STUDENT ADDED]
+.....................
+STUDENT NAME - Fuad
+STUDENT ID   - 600
+[COURSES :]
+.....................
+Course NUMBER: 1
+Course NUMBER: 2
+Course NUMBER: 3
+Course NUMBER: 4
+    
+[EXISTING STUDENT REMOVED]
+.....................
+STUDENT NAME - Fuad
+STUDENT  ID  - 600
+    
+.........................STUDENTSINFORMATION.............................
+[NEW STUDENT ADDED]
+.....................
+STUDENT NAME - Nafees
+STUDENT ID   - 601
+[COURSES :]
+.....................
+Course NUMBER: 1
+    

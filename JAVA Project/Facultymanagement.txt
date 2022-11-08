@@ -1,0 +1,6 @@
+[NEW FACULTY ADDED]
+.....................
+FACULTY NAME - Fuad
+FACULTY  ID  - 523
+SALARY       - 12345.0
+    
