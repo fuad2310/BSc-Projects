@@ -1,0 +1,15 @@
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\bin\Debug\Farm Management System.exe.config
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\bin\Debug\Farm Management System.exe
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\bin\Debug\Farm Management System.pdb
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm Management System.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.SignUp.resources
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.Properties.Resources.resources
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm Management System.csproj.GenerateResource.Cache
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm Management System.exe
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm Management System.pdb
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.Sign_in.resources
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.Employee.resources
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.Admin.resources
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.Customer.resources
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.Confirmation.resources
+C:\Users\Toshiba\OneDrive - American International University-Bangladesh\Desktop\C#\Lab\Farm Management SystemSln\Farm Management System\obj\Debug\Farm_Management_System.List.resources
